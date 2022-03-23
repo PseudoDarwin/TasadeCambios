@@ -1,0 +1,13 @@
+C:\Users\Desarrollo\source\repos\TasadeCambios\Conexion\bin\Debug\Conexion.dll
+C:\Users\Desarrollo\source\repos\TasadeCambios\Conexion\bin\Debug\Conexion.pdb
+C:\Users\Desarrollo\source\repos\TasadeCambios\Conexion\obj\Debug\Conexion.csproj.AssemblyReference.cache
+C:\Users\Desarrollo\source\repos\TasadeCambios\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\source\repos\TasadeCambios\Conexion\obj\Debug\Conexion.dll
+C:\Users\Desarrollo\source\repos\TasadeCambios\Conexion\obj\Debug\Conexion.pdb
+C:\Users\Desarrollo\Desktop\TasadeCambios\Conexion\bin\Debug\Conexion.dll.config
+C:\Users\Desarrollo\Desktop\TasadeCambios\Conexion\bin\Debug\Conexion.dll
+C:\Users\Desarrollo\Desktop\TasadeCambios\Conexion\bin\Debug\Conexion.pdb
+C:\Users\Desarrollo\Desktop\TasadeCambios\Conexion\obj\Debug\Conexion.csproj.AssemblyReference.cache
+C:\Users\Desarrollo\Desktop\TasadeCambios\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Desktop\TasadeCambios\Conexion\obj\Debug\Conexion.dll
+C:\Users\Desarrollo\Desktop\TasadeCambios\Conexion\obj\Debug\Conexion.pdb

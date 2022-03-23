@@ -1,0 +1,7 @@
+C:\Users\Desarrollo\Desktop\TasadeCambios\ConsolaVerificacionMes\bin\Debug\ConsolaVerificacionMes.exe.config
+C:\Users\Desarrollo\Desktop\TasadeCambios\ConsolaVerificacionMes\bin\Debug\ConsolaVerificacionMes.exe
+C:\Users\Desarrollo\Desktop\TasadeCambios\ConsolaVerificacionMes\bin\Debug\ConsolaVerificacionMes.pdb
+C:\Users\Desarrollo\Desktop\TasadeCambios\ConsolaVerificacionMes\obj\Debug\ConsolaVerificacionMes.csproj.AssemblyReference.cache
+C:\Users\Desarrollo\Desktop\TasadeCambios\ConsolaVerificacionMes\obj\Debug\ConsolaVerificacionMes.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Desktop\TasadeCambios\ConsolaVerificacionMes\obj\Debug\ConsolaVerificacionMes.exe
+C:\Users\Desarrollo\Desktop\TasadeCambios\ConsolaVerificacionMes\obj\Debug\ConsolaVerificacionMes.pdb
